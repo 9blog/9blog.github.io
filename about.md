@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# About
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hello! I'm Leyi Zhou, a senior one student of JSZX.    
+My hobby is to write codes in C++. In my spare time, I usually play CS:GO, so if you want to play    
+with me, my steam id is braxstx.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zhouleyi03@outlook.com](mailto:zhouleyi03@outlook.com)
